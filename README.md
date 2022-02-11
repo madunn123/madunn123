@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### 🚀 Im ramadhan perkasa, Im Front-End Dev. 
+##### 🚀 ramadhan perkasa, Im Front-End Dev. 
 ##### 🌏 Made Indonesia.
 ##### 🎸 Playing guitar it's my hobby
 ##### 🐵 Don't judge a book by it's cover.
