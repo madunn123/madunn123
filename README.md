@@ -1,8 +1,9 @@
 ### Hi there, I'm `Ramadhan Perkasa` 👋
-
-##### 🎸 Playing guitar it's my hobby
-##### 🐵 Don't judge a book by it's cover.
-##### 🔥 You can contact me on instagram https://www.instagram.com/ra.maaa7374/.
+<ul>
+  <li>Hablum Minallah & Hablum Minannas</li>
+  <li>🔭 Currently working on Frontend Developer</li>
+  <li>🎸 Interested in Music & Futsal</li>
+</ul>
 
 
 <br />
