@@ -7,7 +7,7 @@ In addition to these two languages, I am also learning how to be a human being w
 
 I have more than 2 years of experience using <b>(Javascript || React)</b> and always try to improve my skills.
 
-<b>The green dots on my GitHub page symbolize my journey from zero to hero although the hero hasn't arrived yet huhuhu</b>.
+<b style="color: red;">The green dots on my GitHub page symbolize my journey from zero to hero although the hero hasn't arrived yet huhuhu</b>.
 
 
 
