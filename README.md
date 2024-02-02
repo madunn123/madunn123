@@ -5,9 +5,9 @@ I am Front end developer. I always love to learn new things in the world of Fron
 
 In addition to these two languages, I am also learning how to be a human being who is <b>"Hablum Minallah"</b> and <b>"Hablum Minannas"</b>.
 
-I have more than 2 years of experience using (Javascript || React) and always try to improve my skills.
+I have more than 2 years of experience using <b>(Javascript || React)</b> and always try to improve my skills.
 
-The green dots on my GitHub page symbolize my journey from zero to hero although the hero hasn't arrived yet huhuhu.
+<b>The green dots on my GitHub page symbolize my journey from zero to hero although the hero hasn't arrived yet huhuhu</b>.
 
 
 
