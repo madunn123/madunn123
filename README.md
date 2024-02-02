@@ -1,8 +1,10 @@
 ### Hi there, I'm `Ramadhan Perkasa` 👋
 <ul>
-  <li>Hablum Minallah & Hablum Minannas</li>
-  <li>🔭 Currently working on Frontend Developer</li>
-  <li>🎸 Interested in Music & Futsal</li>
+  <li><b>Hablum Minallah & Hablum Minannas</b></li>
+  <li>🔭 Currently working on <b>Frontend Developer</b></li>
+  <li>🎸⚽ Interested in Music & Playing Soccer</li>
+  <li>🌱 Currently learning related to <b>JS || TS</b></li>
+  <li>📫 Let's collaborate with me</li>
 </ul>
 
 
