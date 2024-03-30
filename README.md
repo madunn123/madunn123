@@ -12,7 +12,7 @@
     <td valign="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="base-type" width="30" /></td>
     <td valign="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="base-type" width="30" /></td>
     <td valign="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="base-type" width="30" /></td>
-    <td valign="center"><img src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text.png" alt="base-type" width="30" /></td>
+    <td valign="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" alt="base-type" width="30" /></td>
   </tr>
 </table>
 
